@@ -1,3 +1,3 @@
-# flutter_template
+# flutter_cathay
 
 A new Flutter project.
